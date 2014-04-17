@@ -1,0 +1,25 @@
+
+ Invoice ID: Q6PTRXRMD
+ Company Name: ABC Cab Rent Company
+ Used By:   Anchal Arora
+ Booked By: Anchal Arora                        Branch Requested: Noida
+------------------------------------------------------------------------------------------------------------------
+ Car No.: DL1A4848		Car Alotted: Maruti Suzuki Alto
+ Package: P1
+ Kms Used: 25                Extra Kms: 0             Extra Kms Charge(@10% extra rate): 0.0
+ Hours Used: 2                Extra Hours: 0          Extra Hours Charge(@Rs.50/hr): 0.0
+ Car Used On: 12-11-2012                                                                    Sub Total (A): 150.0
+------------------------------------------------------------------------------------------------------------------
+ Parking & Toll: 0.0                                                    Others: 0.0
+ Out Station Allowance (in Rs.) for 	 Days: 0.0                Nights: 0.0
+                                                                                                                      Sub Total (B): 0.0
+------------------------------------------------------------------------------------------------------------------
+                                                                                                                      Total (A+B): 150.0
+
+ PAN: ABC101CDF9                                                                                 Service Tax: 7.491
+ Service Tax Category: Rent-a-Cab		Total: 157.49099999999999
+ All Cheques/Drafts to be drawn in favor of		Booking Amount: 50.0
+ Ravi Sharma Group of Companies Pvt Ltd		Net Payable: 107.49099999999999
+
+ Billing Address
+ Sec-2, Noida, UP
